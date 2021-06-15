@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on API open source projects and also doing competitive coding
 - 💞️ I’m looking to collaborate in the google summer of code organizations and any open source organization
 -   Currently learing Android development with JAVA
-- 
 - 📫 How to reach me through GITHUB!!
+
 
 <!---
 KishkinJ10/KishkinJ10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
