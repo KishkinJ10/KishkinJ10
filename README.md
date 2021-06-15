@@ -2,6 +2,8 @@
 - 👀 I’m interested in open source development!!
 - 🌱 I’m currently working on API open source projects and also doing competitive coding
 - 💞️ I’m looking to collaborate in the google summer of code organizations and any open source organization
+-   Currently learing Android development with JAVA
+- 
 - 📫 How to reach me through GITHUB!!
 
 <!---
