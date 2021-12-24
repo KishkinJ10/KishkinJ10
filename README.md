@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishkinj10" alt="kishkinj10" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **WEB Development**
 - - 📫 How to reach me through GITHUB!!
 - - 🌱 I’m currently working on API open source projects and also doing competitive coding
 - 💞️ I’m looking to collaborate in the google summer of code organizations and any open source organization
