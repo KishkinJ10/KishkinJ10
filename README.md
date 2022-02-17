@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello , I'm KISHKIN JOSHI</h1>
-<h3 align="center">A competitive programmer and an open source developer.</h3>
+<h3 align="center">A competitive programmer , open source contributor and an full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishkinj10&label=Profile%20views&color=0e75b6&style=flat" alt="kishkinj10" /> </p>
 
